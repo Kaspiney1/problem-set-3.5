@@ -3,7 +3,7 @@ body {
   background-color: #DC143C
 }
 h1 {
-  color:#004953;
+  text-align: center;
 }
 .font-1 {
   font-family: 'Indie Flower', cursive;
@@ -11,3 +11,20 @@ h1 {
 .index {
   margin; 1.5em
 }
+p {
+  text-color: #008080
+}
+/* mouse over link */
+a:hover {
+  currentstate;
+  beginnings;
+  thebestmoments;
+}
+button:hover {
+  color: blue;
+}
+p:p+h2 {
+  background-color: #DC143C
+  
+    
+    
